@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\Coding practice\DesktopApps for AreaofCircle\DesktopApps for AreaofCircle\bin\Debug\DesktopApps for AreaofCircle.exe.config
+C:\Users\USER\Desktop\Coding practice\DesktopApps for AreaofCircle\DesktopApps for AreaofCircle\bin\Debug\DesktopApps for AreaofCircle.exe
+C:\Users\USER\Desktop\Coding practice\DesktopApps for AreaofCircle\DesktopApps for AreaofCircle\bin\Debug\DesktopApps for AreaofCircle.pdb
+C:\Users\USER\Desktop\Coding practice\DesktopApps for AreaofCircle\DesktopApps for AreaofCircle\obj\Debug\DesktopApps for AreaofCircle.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Coding practice\DesktopApps for AreaofCircle\DesktopApps for AreaofCircle\obj\Debug\DesktopApps_for_AreaofCircle.Form1.resources
+C:\Users\USER\Desktop\Coding practice\DesktopApps for AreaofCircle\DesktopApps for AreaofCircle\obj\Debug\DesktopApps_for_AreaofCircle.Properties.Resources.resources
+C:\Users\USER\Desktop\Coding practice\DesktopApps for AreaofCircle\DesktopApps for AreaofCircle\obj\Debug\DesktopApps for AreaofCircle.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Coding practice\DesktopApps for AreaofCircle\DesktopApps for AreaofCircle\obj\Debug\DesktopApps for AreaofCircle.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Coding practice\DesktopApps for AreaofCircle\DesktopApps for AreaofCircle\obj\Debug\DesktopApps for AreaofCircle.exe
+C:\Users\USER\Desktop\Coding practice\DesktopApps for AreaofCircle\DesktopApps for AreaofCircle\obj\Debug\DesktopApps for AreaofCircle.pdb
