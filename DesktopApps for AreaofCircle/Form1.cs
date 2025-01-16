@@ -34,15 +34,30 @@ namespace DesktopApps_for_AreaofCircle
 
 
             IbIAnswer.Text = area.ToString();
-            //IbIAnswer.BackColor = Color.White;
+            IbIAnswer.BackColor = Color.White;
+           
+        }
 
+        private void btnShowFormula_Click(object sender, EventArgs e)
+        {
+          
+            if (btnShowFormula.Text == "Show Formula")
+            {
+                btnShowFormula.Text = "Area = π * radius²";
+            }
+            else
+            {
+                btnShowFormula.Text = "Show Formula";
+            }
+        }
 
-            //'clear text box
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            // Clear the text in the radius input box
             TxtRadius.Clear();
 
-            //'set foucs after clearing 
-            TxtRadius.Focus();
-           
+            IbIAnswer.Text = string.Empty;
+
         }
     }
 }
