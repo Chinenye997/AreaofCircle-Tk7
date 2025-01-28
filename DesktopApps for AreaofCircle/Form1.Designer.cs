@@ -131,7 +131,7 @@ namespace DesktopApps_for_AreaofCircle
             this.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.Name = "Form1";
             this.Text = "CALCULATION OF CIRCLE";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            
             this.ResumeLayout(false);
             this.PerformLayout();
 
